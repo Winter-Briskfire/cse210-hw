@@ -7,3 +7,7 @@ class Program
         Console.WriteLine("Hello Learning02 World!");
     }
 }
+
+public class Learning02
+{
+}
